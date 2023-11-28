@@ -1,0 +1,21 @@
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\net6.0-windows\Membership Fee Calculator.exe
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\net6.0-windows\Membership Fee Calculator.deps.json
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\net6.0-windows\Membership Fee Calculator.runtimeconfig.json
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\net6.0-windows\Membership Fee Calculator.dll
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\net6.0-windows\Membership Fee Calculator.pdb
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership_Fee_Calculator.Form1.resources
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership Fee Calculator.vbproj.GenerateResource.cache
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership Fee Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership Fee Calculator.AssemblyInfoInputs.cache
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership Fee Calculator.AssemblyInfo.vb
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership Fee Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership Fee Calculator.dll
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\refint\Membership Fee Calculator.dll
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership Fee Calculator.pdb
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership Fee Calculator.genruntimeconfig.cache
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\ref\Membership Fee Calculator.dll
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership_Fee_Calculator.Resources.resources
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership_Fee_Calculator.Form2.resources
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership_Fee_Calculator.Form3.resources
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership_Fee_Calculator.Form4.resources
+C:\Users\Kwabe\Desktop\VB Projects\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\net6.0-windows\Membership_Fee_Calculator.Form5.resources
